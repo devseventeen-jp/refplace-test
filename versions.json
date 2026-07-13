@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "latest",
+    "files": [
+      "test1.md",
+      "test2.md"
+    ]
+  },
+  {
+    "tag": "docs",
+    "files": [
+      "m"
+    ]
+  },
+  {
+    "tag": "v0.15",
+    "files": [
+      "test1.md",
+      "test2.md"
+    ]
+  }
+]
