@@ -7,13 +7,14 @@
     ]
   },
   {
-    "tag": "docs",
+    "tag": "v0.15",
     "files": [
-      "m"
+      "test1.md",
+      "test2.md"
     ]
   },
   {
-    "tag": "v0.15",
+    "tag": "v0.17",
     "files": [
       "test1.md",
       "test2.md"
