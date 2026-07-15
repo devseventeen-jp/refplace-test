@@ -15,6 +15,17 @@
 </head>
 <body>
   <h1>Documentation</h1>
+    <div id="insert-here"></div>
+
+  <script>
+    fetch("./hilight.html")
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById("insert-here").innerHTML = html;
+      })
+      .catch(err => console.error("Failed to load hilight.html:", err));
+  </script>
+
   <div id="versions"></div>
 
   <script>

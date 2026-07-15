@@ -21,6 +21,13 @@
     ]
   },
   {
+    "tag": "v0.18",
+    "files": [
+      "test1.md",
+      "test2.md"
+    ]
+  },
+  {
     "tag": "v01.6",
     "files": [
       "test1.md",
