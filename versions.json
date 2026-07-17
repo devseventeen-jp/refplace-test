@@ -56,6 +56,13 @@
     ]
   },
   {
+    "tag": "v0.92",
+    "files": [
+      "test1.md",
+      "test2.md"
+    ]
+  },
+  {
     "tag": "v0.9a",
     "files": [
       "test1.md",
